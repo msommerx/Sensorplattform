@@ -1,6 +1,6 @@
-# All Credits to opendata-stuttgart/sensors-software !
+All Credits to opendata-stuttgart/sensors-software !
 
-# Die ursprüngliche Programmierung vom Projekt luftdaten.info wurde übernommen, um eine eigene Sensorplattform zu erstellen.
+Die ursprüngliche Programmierung vom Projekt luftdaten.info wurde übernommen, um eine eigene Sensorplattform zu erstellen.
 
 # Version für Sensoren DHT22
 
